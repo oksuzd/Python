@@ -5,4 +5,4 @@ n = input("Введите число n: ")
 
 summa = int(n*3) + int(n*2) + int(n)
 
-print(f"{n} + {n*2} + {n*3} =", summa)
+print(f"{n} + {n*2} + {n*3} = {summa}")
