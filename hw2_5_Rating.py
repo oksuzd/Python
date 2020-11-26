@@ -19,17 +19,3 @@ my_list.append(new_num)
 new_list = sorted(my_list)[::-1]
 
 print("Новый рейтинг:", new_list)
-
-
-# for i, el in enumerate(my_list):
-#     if new_num == el:
-#         my_list.insert(i, new_num)
-#         break
-#     if new_num not in my_list:
-#         if el < new_num:
-#             my_list.insert(i, new_num)
-#         elif i == len(my_list) - 1:
-#             my_list.append(new_num)
-#             break
-#
-# print(my_list)
