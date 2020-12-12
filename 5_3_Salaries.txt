@@ -1,0 +1,7 @@
+Lincoln 5000
+Washington 1000
+Franklin 100000
+Jefferson 2000
+Jackson 20000
+Hamilton 10000
+Grant 50000
